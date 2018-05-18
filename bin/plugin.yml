@@ -1,0 +1,4 @@
+name: MongoBeispiel
+author: Rhyzox
+main: me.rhyzox.mongo.Mongo
+version: 1.0
